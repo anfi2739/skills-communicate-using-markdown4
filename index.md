@@ -27,3 +27,6 @@ function draw() {
  
 }
 ```
+- [ ] Jump!
+- [ ] Spin!
+- [ ] Run!
